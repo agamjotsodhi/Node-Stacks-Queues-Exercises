@@ -1,0 +1,19 @@
+{
+  "name": "dsa-stacks-queues",
+  "version": "1.0.0",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Agamjot Sodhi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/agamjotsodhi/Stacks-Queues-Exercises.git"
+  },
+  "description": ""
+}
